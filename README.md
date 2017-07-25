@@ -1,28 +1,25 @@
-## [YouTube Pause](http://goo.gl/6ExxFO)
+## [YouTube Pause With Spacebar]()
 
-No more scrolling down the page when you hit spacebar expecting to pause a YouTube video.
-
-[![MacDown logo](https://raw.githubusercontent.com/nishanths/youtube-pause-chrome/master/icons/icon128.png)](http://goo.gl/6ExxFO)
+Slap the spacebar, pause the video. Like you'd expect. Based on [YouTube Pause](http://goo.gl/6ExxFO) but fixes the issue with pausing while trying to type in the comments and search.
 
 ## Where Do I Get It?
 
-Download it from the [Chrome Web Store](http://goo.gl/6ExxFO).
+Grab it from the [Chrome Store]().
 
 ## What Does It Do?
 
-[![Video](http://cl.ly/aJjm/shot.png)](https://www.youtube.com/watch?v=XGUKRdMrUrs&feature=youtu.be)
+Unless focus has been placed in the video player, YouTube scrolls down the page instead of pausing the video when you hit spacebar. This Chrome extension prevents that default behavior and using the spacebar will pause or play the video
 
-YouTube scrolls down the page instead of pausing the video when you hit spacebar. This Chrome extension makes sure that the video pauses and no annoying scrolling takes place.
+## Issues?
 
-## It Stopped Working?
+Open an issue on [Github](https://github.com/nodes777/YouTube-Pause/issues)
 
-Please let me know [here](https://github.com/nishanths/youtube-pause-chrome/issues) or [by email](nishanth.gerrard@gmail.com).
 
 ## Credits
 
+* [Nishanth Gerrard](http://goo.gl/6ExxFO) for the original extension.
 * [Contributors](https://github.com/nishanths/youtube-pause-chrome/graphs/contributors)
-* Icons by [Konrad Michalik](http://thenounproject.com/konradmichalik/).
 
 ## License
 
-[MIT License](https://github.com/nishanths/youtube-pause-chrome/blob/master/LICENSE).
+[MIT License](hhttps://en.wikipedia.org/wiki/MIT_License).
